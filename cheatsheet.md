@@ -87,7 +87,9 @@ Ces liens devraient vous aider à accéder aux différentes ressources et à com
 # Quelques comptes Github pour enrichir vos recherches :
 
 https://github.com/krzjoa/awesome-python-data-science
+
 https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master
+
 https://roadmap.sh/ai-data-scientist
 
 # Groupe et projets 
