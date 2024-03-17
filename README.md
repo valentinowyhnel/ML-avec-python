@@ -63,6 +63,27 @@ Pour réussir en machine learning avec Python, voici quelques éléments indispe
 
 En maîtrisant ces éléments, vous serez bien équipé pour commencer à explorer et à appliquer le machine learning en utilisant Python.
 
+# Jupyter Notebook / JupyterLab
+
+![image](https://github.com/yamitxc/ML-avec-python/assets/110922220/cdeb863c-2b3b-4cba-b064-dd0a3e20913f)
+![image](https://github.com/yamitxc/ML-avec-python/assets/110922220/8665b0bd-8299-4e6e-a41f-30a3bfb972e6)
+
+
+
+Jupyter Notebook et JupyterLab sont extrêmement populaires en machine learning pour plusieurs raisons :
+
+1. **Interactivité** : Jupyter offre un environnement interactif où les développeurs peuvent exécuter du code Python pas à pas et voir les résultats immédiatement. Cela facilite l'exploration et la manipulation des données, ainsi que l'expérimentation avec différents algorithmes et paramètres.
+
+2. **Visualisation intégrée** : Les notebooks Jupyter permettent d'intégrer des graphiques, des tableaux et du texte explicatif directement avec le code, ce qui facilite la communication des résultats et des insights.
+
+3. **Documentation en temps réel** : Les notebooks Jupyter permettent d'écrire des commentaires et des explications directement avec le code, ce qui rend le processus de développement et de partage de code plus transparent et plus compréhensible.
+
+4. **Facilité d'utilisation** : Jupyter est facile à installer et à utiliser, ce qui en fait un choix attrayant pour les débutants en machine learning ainsi que pour les professionnels expérimentés. De plus, il est compatible avec une grande variété de bibliothèques et de frameworks populaires en Python.
+
+5. **Large adoption dans la communauté** : Jupyter est devenu un outil standard dans le domaine du machine learning et de la science des données. Il est largement utilisé dans les universités, les entreprises, les laboratoires de recherche et les communautés open source, ce qui facilite le partage de code et de résultats entre les développeurs.
+
+En résumé, la combinaison de son interactivité, de sa facilité d'utilisation, de sa visualisation intégrée et de sa large adoption dans la communauté en fait un choix privilégié pour le développement en machine learning.
+
 
 
 
