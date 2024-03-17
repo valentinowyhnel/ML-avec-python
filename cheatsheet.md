@@ -84,6 +84,19 @@ Bien sûr, voici les liens vers les ressources que j'ai mentionnées :
 
 Ces liens devraient vous aider à accéder aux différentes ressources et à commencer votre parcours d'apprentissage en machine learning.
 
+# Quelques comptes Github pour enrichir vos recherches :
+
+https://github.com/krzjoa/awesome-python-data-science
+https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master
+https://roadmap.sh/ai-data-scientist
+
+# Groupe et projets 
+
+https://t.me/DataScienceT
+https://t.me/DataScienceM
+https://t.me/CodeProgrammer
+
+
 
 
 
