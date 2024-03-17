@@ -98,8 +98,17 @@ https://t.me/DataScienceT
 https://t.me/DataScienceM
 https://t.me/CodeProgrammer
 
+# dataset : 
 
+https://t.me/datasets1
+https://huggingface.co/
 
+# certificat :
+https://bit.ly/2A42Hg0
+
+https://t.me/udacityfreecourse
+
+https://t.me/free4unow_backup
 
 
 
