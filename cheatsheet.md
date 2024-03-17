@@ -36,15 +36,25 @@ En combinant la théorie avec la pratique, vous pourrez développer une solide b
 
 # cheatsheat 
 **python**: https://www.pythoncheatsheet.org/
+
 **pandas**: https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+
 **matploitlib**: https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf
+
 **Numpy**: https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf
+
 **mixte**: https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf
+
 **seaborn** : https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf
+
 **scikit-learn** : https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf
+
 **TensorFlow library** : https://www.altoros.com/tensorflow-cheat-sheet.html
+
 **Keras** : https://www.datacamp.com/cheat-sheet/keras-cheat-sheet-neural-networks-in-python
+
 **PyTorch framework**: https://www.sznajdman.com/wp-content/uploads/2018/02/pytorch-cheat.jpg
+
 **SciPy**: https://www.datacamp.com/cheat-sheet/scipy-cheat-sheet-linear-algebra-in-python
 
 Il existe de nombreux tutoriels de machine learning disponibles en ligne, et le "meilleur" dépendra souvent de vos préférences personnelles, de votre niveau de compétence actuel et de vos objectifs spécifiques en matière d'apprentissage. Cependant, voici quelques ressources populaires et bien notées que vous pourriez trouver utiles :
