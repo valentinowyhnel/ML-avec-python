@@ -95,7 +95,9 @@ https://roadmap.sh/ai-data-scientist
 # Groupe et projets 
 
 https://t.me/DataScienceT
+
 https://t.me/DataScienceM
+
 https://t.me/CodeProgrammer
 
 # dataset : 
