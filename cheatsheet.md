@@ -1,4 +1,4 @@
-# apprendre les bases du machine learning :
+# Apprendre les bases du machine learning :
 
 1. **Compréhension des concepts fondamentaux** :
    - Différence entre l'apprentissage supervisé, non supervisé et semi-supervisé.
