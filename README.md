@@ -37,7 +37,9 @@ Ces applications montrent comment le machine learning peut transformer différen
 ![image](https://github.com/yamitxc/ML-avec-python/assets/110922220/0de868b1-9357-4a46-9692-39a423fb8283)
 ![image](https://github.com/yamitxc/ML-avec-python/assets/110922220/1cc8e334-a8c4-4828-9abd-8def45580fb1)
 ![image](https://github.com/yamitxc/ML-avec-python/assets/110922220/352e3f1f-f694-4b88-b24d-437d760e2ede)
-
+![image](https://github.com/valentinowyhnel/ML-avec-python/assets/110922220/e2673136-aef8-44cd-9b17-699399596342)
+![image](https://github.com/valentinowyhnel/ML-avec-python/assets/110922220/6a784eb8-0ccc-443f-91ca-c7413f054f75)
+![image](https://github.com/valentinowyhnel/ML-avec-python/assets/110922220/67cb7ca3-45b8-4e0b-a8c4-c1c06fa34b47)
 
 Python est largement utilisé en machine learning pour plusieurs raisons :
 
